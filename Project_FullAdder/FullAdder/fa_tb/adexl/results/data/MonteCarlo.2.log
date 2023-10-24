@@ -1,0 +1,51 @@
+Starting Monte Carlo Sampling...
+
+Current time: Fri Nov  4 10:20:39 2022 
+
+Variation: All
+Sampling Method: Low-Discrepancy Sequence
+Seed: 
+
+MonteCarlo.2
+Number of points completed: 100
+Number of simulation errors: 0
+MonteCarlo.2 completed. 
+Current time: Fri Nov  4 10:25:13 2022 
+Monte Carlo Sampling yield summary:
+Number of spec values are in this yield data: 10
+FullAdder:fa_tb:1	MC - 
+	Delay_000:	Yield	100%
+		Min 1.14095e-10	Max 1.42556e-10	Mean 1.24373e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Delay_001:	Yield	100%
+		Min 1.19675e-10	Max 1.48121e-10	Mean 1.32384e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Delay_010:	Yield	100%
+		Min 1.45122e-10	Max 1.70627e-10	Mean 1.5618e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Delay_011:	Yield	100%
+		Min 1.2518e-10	Max 1.52659e-10	Mean 1.35816e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Delay_100:	Yield	100%
+		Min 1.24245e-10	Max 1.53992e-10	Mean 1.35702e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Delay_101:	Yield	100%
+		Min 1.19675e-10	Max 1.48121e-10	Mean 1.32384e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Delay_110:	Yield	100%
+		Min 1.65491e-10	Max 2.05705e-10	Mean 1.83368e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Delay_111:	Yield	100%
+		Min 1.19105e-10	Max 1.46054e-10	Mean 1.28503e-10	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	PDP:	Yield	100%
+		Min 5.96299e-15	Max 7.41444e-15	Mean 6.60325e-15	Number of errors 0
+FullAdder:fa_tb:1	MC - 
+	Power_avg:	Yield	100%
+		Min 3.57632e-05	Max 3.62946e-05	Mean 3.60119e-05	Number of errors 0
+
+FullAdder:fa_tb:1
+	Overall Yield	100%	Number of points passed	100	Total number of points	100
+
+Estimated yield = 100% (100/100), 0 errors
+Estimated yield (No opregions) = 100% (100/100)

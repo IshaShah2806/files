@@ -1,0 +1,23 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Nov  2 18:30:26 2022 
+Best design point: 1
+Design specs: 
+	FullAdder:fa_tb:1	corner	TT - 
+	Delay_000		141.1p
+	Delay_001		165.5p
+	Delay_010		190p
+	Delay_011		162.1p
+	Delay_100		155p
+	Delay_101		165.5p
+	Delay_110		226.3p
+	Delay_111		146.5p
+	Power_avg		42.39u
+	PDP		9.594f
+Design parameters: 
+
+Interactive.13
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.13 completed. 
+Current time: Wed Nov  2 18:30:49 2022 
