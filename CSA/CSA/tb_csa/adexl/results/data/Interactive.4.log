@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Nov 28 18:32:10 2022 
+Best design point: 1
+Design specs: 
+	CSA:tb_csa:1	corner	Nominal - 
+	Delay_max		131p
+	Delay_min		90.55p
+	Power_avg		476.1u
+Design parameters: 
+
+Interactive.4
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.4 completed. 
+Current time: Mon Nov 28 18:33:34 2022 

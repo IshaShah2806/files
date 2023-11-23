@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Dec  3 19:18:49 2022 
+Best design point: 1
+Design specs: 
+	CLA:tb_cla:1	corner	TT - 
+	Delay		608.7p
+	avg_Power		Error	No
+	PDP		Error	No
+Design parameters: 
+	V_D		1.2
+
+Interactive.67
+Number of points completed: 2
+Number of simulation errors: 1
+Interactive.67 completed. 
+Current time: Sat Dec  3 19:22:21 2022 

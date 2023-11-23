@@ -1,0 +1,32 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Dec  1 09:56:28 2022 
+Best design point: 1
+Design specs: 
+	CLA:tb_claB:1	corner	FF - 
+	avg_Power		485.5u
+	Delay_min		62p
+	Delay_max		107p
+	PDP		51.95f
+	CLA:tb_claB:1	corner	TT - 
+	avg_Power		464.5u
+	Delay_min		71.38p
+	Delay_max		129.3p
+	PDP		60.08f
+	CLA:tb_claB:1	corner	SS - 
+	avg_Power		465.1u
+	Delay_min		94.24p
+	Delay_max		189.2p
+	PDP		88.01f
+	CLA:tb_claB:1	corner	Nominal - 
+	avg_Power		464.5u
+	Delay_min		71.38p
+	Delay_max		129.3p
+	PDP		60.08f
+Design parameters: 
+
+Interactive.4
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.4 completed. 
+Current time: Thu Dec  1 10:01:07 2022 

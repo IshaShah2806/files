@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Nov 30 19:10:08 2022 
+Best design point: 1
+Design specs: 
+	RippleAdder_16Bit:tb_ra:1	corner	Nominal - 
+	Avg_Power		291.1u
+	Delay		42.11p
+Design parameters: 
+
+Interactive.37
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.37 completed. 
+Current time: Wed Nov 30 19:11:11 2022 
